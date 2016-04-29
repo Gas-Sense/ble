@@ -1,17 +1,4 @@
 {
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/ARMmbed/ble/blob/master/module.json"
-    },
-    "name": {
-        "Mbed BLE_API"
-    },
-    "description": "The Official Mbed BLE_API",
-    "keywords": "mbed, ble, api, bluetooth, arm"
-    
-}
-
-{
     "name": "Mbed BLE_API",
     "keywords": "mbed, ble, api, bluetooth, arm",
     "description": "The Official Mbed BLE_API (Unofficially listed)",
